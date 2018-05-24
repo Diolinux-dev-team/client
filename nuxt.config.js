@@ -18,6 +18,22 @@ module.exports = {
   ** Customize the progress bar color
   */
   loading: { color: '#3B8070' },
+
+  /*
+  ** Create middleware i18n
+  */
+  router: {
+    middleware: 'i18n'
+  },
+  plugins: ['~/plugins/i18n.js'],
+
+  /*
+  ** Generate folders
+  */
+  generate: {
+    routes: ['/', '/about', '/en', '/en/about']
+  },
+
   /*
   ** Build configuration
   */

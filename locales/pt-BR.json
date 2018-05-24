@@ -1,0 +1,16 @@
+{
+    "links": {
+        "home": "Página inicial",
+        "about": "Sobre",
+        "english": "English version",
+        "portuguese": "Versão em portuguese"
+    },
+    "home": {
+        "title": "Seja bem vindo",
+        "introduction": "Isso é uma introdução em portugues."
+    },
+    "about": {
+        "title": "Sobre",
+        "introduction": "Diolinux plus é uma rede social"
+    }
+}
