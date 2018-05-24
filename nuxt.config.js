@@ -31,6 +31,11 @@ module.exports = {
   ** Generate folders
   */
   generate: {
+    minify: {
+      removeOptionalTags: false,
+      collapseWhitespace: true,
+      removeComments: true,
+    },
     routes: ['/', '/about', '/en', '/en/about']
   },
 
