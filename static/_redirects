@@ -1,7 +1,6 @@
 http://diolinux.netlify.com/* https://plus.diolinux.com.br/:splat 301!
 http://plus.diolinux.com.br/* https://plus.diolinux.com.br/:splat 301!
 
-/* /404.html 404
 
 /* /en/:splat Language=en
-/* /en/404.html 404 Language=en
+/* /404.html 404
