@@ -12,9 +12,5 @@
     "about": {
         "title": "About",
         "introduction": "This page is made to give you more informations."
-    },
-    "notfound": {
-        "title": "Page not found",
-        "text": "It looks like the page you are looking for is not currently available."
     }
 }
