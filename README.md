@@ -1,4 +1,4 @@
-# diolinux
+# Diolinux Web client
 
 > Diolinux plus
 
