@@ -12,5 +12,9 @@
     "about": {
         "title": "Sobre",
         "introduction": "Diolinux plus é uma rede social"
+    },
+    "notfound": {
+        "title": "Página não encontrada",
+        "text": "Parece que a pagina que você está atrás não está disponível atualmente."
     }
 }
