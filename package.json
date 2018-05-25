@@ -8,9 +8,10 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
+    "generate": "npm run test && nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "precommit": "npm run lint"
+    "test": "npm run lint && echo \"No tests\"",
+    "precommit": "npm run lint && npm run test"
   },
   "dependencies": {
     "nuxt": "^1.0.0",
